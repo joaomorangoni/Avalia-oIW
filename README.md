@@ -1,1 +1,1 @@
-https://github.com/joaomorangoni/atividadeIW.git
+https://github.io/joaomorangoni/atividadeIW
